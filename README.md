@@ -17,6 +17,7 @@ the reliability of attendance data in academic settings.
 
 
 Introduction
+
 Attendance management plays a critical role in maintaining accountability, participation, and academic integrity in educational
 institutions. Instructors rely on accurate records for grading, compliance, and performance monitoring, while administrators use
 attendance data for resource allocation and institutional reporting.
@@ -54,6 +55,7 @@ classroom management.
 
 
 Replication instructions
+
 3.6.1 Front-End Development (HTML, CSS, JavaScript, Bootstrap)
 Use HTML5 and CSS3 to define the structural layout for all
 system pages, including Login, Instructor Dashboard, Student Dashboard, Live Attendance, and Attendance History. Visual styling and
