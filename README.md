@@ -1,5 +1,6 @@
 # Enhancing-Attendence-Systems-with-Face-Recognition-An-HCI-Driven-Redesign
 Abstract
+
 Accurate attendance tracking is essential for academic accountability, yet many institutions continue to rely on manual or semiautomated processes that are slow, inconsistent, and prone to error.
 FaceAttend proposes a human-centered redesign of real-time attendance workflows by integrating facial recognition, role-based
 interaction design, and a streamlined web interface. Developed using Python Flask, OpenCV, and a structured three-tier architecture,
@@ -13,9 +14,9 @@ office environments, collecting metrics on usability, task completion, cognitive
 automated recognition with thoughtful interaction design, FaceAttend demonstrates a practical and scalable approach to reducing
 classroom overhead, improving user satisfaction, and strengthening
 the reliability of attendance data in academic settings.
-Keywords
-Real-time attendance, Human-Computer Interaction, facial recognition, usability evaluation, Flask, OpenCV, interface design
-1 Introduction
+
+
+Introduction
 Attendance management plays a critical role in maintaining accountability, participation, and academic integrity in educational
 institutions. Instructors rely on accurate records for grading, compliance, and performance monitoring, while administrators use
 attendance data for resource allocation and institutional reporting.
@@ -50,7 +51,9 @@ enhances accuracy, user satisfaction, and institutional efficiency.
 This solution demonstrates how practical applications of computer
 vision can simplify routine academic workflows and improve overall
 classroom management.
-3.6 Replication instructions
+
+
+Replication instructions
 3.6.1 Front-End Development (HTML, CSS, JavaScript, Bootstrap)
 Use HTML5 and CSS3 to define the structural layout for all
 system pages, including Login, Instructor Dashboard, Student Dashboard, Live Attendance, and Attendance History. Visual styling and
